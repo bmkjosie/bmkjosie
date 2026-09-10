@@ -17,9 +17,18 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Game
+### 📈 Canlı GitHub Commit & Aktivite Grafiğin
 
-<!-- Katkı karelerinde dolaşan dinamik yılan animasyonu -->
+<!-- Senin bmkjosie hesabındaki commit geçmişini canlı çeken grafik -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bmkjosie&theme=react-dark&hide_border=true&area=true" width="100%" alt="bmkjosie Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Game
+
+<!-- Yeşil katkı karelerinde gezen yılan oyunu -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/bmkjosie/bmkjosie/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
