@@ -37,9 +37,8 @@
 
 ### 🐍 GitHub Commit Yılan Oyunu (Contribution Snake)
 
-<!-- Katkı karelerinde dolaşan dinamik yılan animasyonu -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bmkjosie/bmkjosie/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/bmkjosie/bmkjosie/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -47,7 +46,8 @@
 ### 📈 Commit & Aktivite Çizelgesi
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bmkjosie&theme=react-dark&hide_border=true&area=true" width="100%" alt="bmkjosie Activity Graph" />
+  <!-- Stabil GitHub Katkı Grafiği (Capsule Render API) -->
+  <img src="https://k4321-github-readme-activity-graph.vercel.app/graph?username=bmkjosie&theme=react-dark&hide_border=true&area=true" width="100%" alt="bmkjosie Activity Graph" />
 </div>
 
 ---
@@ -55,14 +55,8 @@
 ### 📊 İstatistikler & En Çok Kullanılan Diller
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bmkjosie&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub İstatistikleri" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmkjosie&layout=compact&theme=onedark&hide_border=true" alt="Kullanılan Diller" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmkjosie&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bmkjosie&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub İstatistikleri" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bmkjosie&layout=compact&theme=onedark&hide_border=true" alt="Kullanılan Diller" />
 </div>
 
 ---
