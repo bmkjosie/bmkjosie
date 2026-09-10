@@ -29,7 +29,7 @@
 
 ---
 
-### 🐍 GitHub Katkı Yılan Oyunu
+### 🐍 Geliştirici Aktivite Takvimi
 
 <!-- Yeşil katkı karelerinde dolaşan canlı yılan animasyonu -->
 <div align="center">
