@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Merhaba 👋, Ben Berkay Mehmet Karakaş</h1>
+  <h1>Hi there 👋, I'm Berkay Mehmet Karakaş</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Programming+Student;Web+%26+Mobile+Developer;Building+Mobile+Apps+with+React+Native;Exploring+JavaScript+%26+Docker" alt="Typing SVG" />
 
@@ -17,20 +17,28 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake Game
+
+<!-- Katkı karelerinde dolaşan dinamik yılan animasyonu -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bmkjosie/bmkjosie/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
 ### 👨‍💻 Hakkımda (About Me)
 
 - 🎓 **Eğitim:** Bilgisayar Programcılığı Öğrencisi
 - 💼 **Odak Alanı:** Web & Mobile Application Development
-- 🌱 **Aktif Öğrendiklerim:** JavaScript Ekosistemi & Docker Konteynırlama
-- ⚡ **Hedefim:** Clean Architecture prensiplerine uygun, modern, hızlı ve kullanıcı dostu uygulamalar geliştirmek.
+- 🌱 **Aktif Öğrendiklerim:** JavaScript Ekosistemi & Docker
+- ⚡ **Hedefim:** Clean Architecture prensiplerine uygun, modern ve ölçeklenebilir uygulamalar geliştirmek.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar (Tech Stack)
+### 🛠️ Diller & Teknolojiler (Tech Stack)
 
 <div align="center">
 
-  <!-- Yüksek performanslı ve kesintisiz Skill-Icons CDN -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,py,postgres,docker,git,github,vscode&perline=9" alt="My Tech Stack" />
   </a>
@@ -39,7 +47,7 @@
 
 ---
 
-### 🚀 Öne Çıkan Çalışma Alanları & Yetkinlikler
+### 🚀 Yetkinlikler
 
 | Alan | Teknolojiler | Durum |
 | :--- | :--- | :---: |
@@ -49,9 +57,13 @@
 
 ---
 
-### 📌 Güncel Durum (What I'm Up To)
+### 🌐 İletişim
 
-```text
-📂 [Öğrenim] JavaScript gelişmiş konseptleri & Asenkron Mimari
-🐳 [DevOps] Docker ile konteynırlaştırma ve mikroservis temelleri
-📱 [Mobil] React Native kullanarak cross-platform mobil projeler
+<div align="left">
+  <a href="https://www.linkedin.com/in/berkay-mehmet-karaka%C5%9F/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/bmkjosie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
