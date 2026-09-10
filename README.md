@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi there 👋, I'm Berkay Mehmet Karakaş</h1>
-  <p><strong>Bilgisayar Programcılığı Öğrencisi | Web & Mobile Developer Enthusiast</strong></p>
+  <p><strong>Computer Programming Student | Web & Mobile Developer Enthusiast</strong></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Programming+Student;Web+%26+Mobile+Developer;Building+Mobile+Apps+with+React+Native;Exploring+JavaScript+%26+Docker" alt="Typing SVG" />
 
